@@ -1,0 +1,15 @@
+{
+  "envId": "wx-3d7d32",
+  "framework": {
+    "name": "koa-starter",
+    "plugins": {
+      "node": {
+        "use": "@cloudbase/framework-plugin-node",
+        "inputs": {
+          "name": "koa-starter",
+          "path": "/koa-starter"
+        }
+      }
+    }
+  }
+}
